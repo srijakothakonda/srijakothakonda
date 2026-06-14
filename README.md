@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi 👋, I'm Kothakonda Srija
 
-<!--
-**srijakothakonda/srijakothakonda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🤖 Aspiring AI/ML Engineer
 
-Here are some ideas to get you started:
+🎓 B.Tech Student at SR University
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔍 Interested in Machine Learning, Deep Learning, and Computer Vision
+
+🎯 Goal: Become an AI/ML Engineer
+
+📫 LinkedIn: www.linkedin.com/in/srija-kothakonda-983737295
+
+💻 LeetCode: https://leetcode.com/u/KothakondaSrija/
