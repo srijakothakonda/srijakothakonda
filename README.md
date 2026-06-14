@@ -110,28 +110,9 @@
 * User-friendly design
 
 ---
-
-## 📊 GitHub Statistics
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=srijakothakonda&show_icons=true&theme=radical" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srijakothakonda&layout=compact&theme=radical" height="170"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=srijakothakonda&theme=radical"/>
-</p>
-
----
-
-
-
-
-
-
 ## 💡 AI Quote
 
-> "Artificial Intelligence is not about replacing humans, but about amplifying human potential."
+ "Artificial Intelligence is not about replacing humans, but about amplifying human potential."
 
 ---
 
