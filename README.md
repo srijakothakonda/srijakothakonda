@@ -1,6 +1,6 @@
 # <h1 align="center">Hi 👋, I'm Kothakonda Srija</h1>
 
-<h3 align="center">🤖 Aspiring AI/ML Engineer | Computer Vision Enthusiast | B.Tech Student at SR University</h3>
+<h3 align="center">🤖 Aspiring AI/ML Engineer | B.Tech Student at SR University</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=srijakothakonda&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
